@@ -1,6 +1,0 @@
-F:\CSC 153-C#\TextAdventure1_DavisPaulino\ConsoleP\bin\Debug\ConsoleP.exe.config
-F:\CSC 153-C#\TextAdventure1_DavisPaulino\ConsoleP\bin\Debug\ConsoleP.exe
-F:\CSC 153-C#\TextAdventure1_DavisPaulino\ConsoleP\bin\Debug\ConsoleP.pdb
-F:\CSC 153-C#\TextAdventure1_DavisPaulino\ConsoleP\obj\Debug\ConsoleP.csprojAssemblyReference.cache
-F:\CSC 153-C#\TextAdventure1_DavisPaulino\ConsoleP\obj\Debug\ConsoleP.exe
-F:\CSC 153-C#\TextAdventure1_DavisPaulino\ConsoleP\obj\Debug\ConsoleP.pdb
