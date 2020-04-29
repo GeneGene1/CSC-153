@@ -1,0 +1,6 @@
+F:\CSC 153-C#\TotalSalesHardCoded\M2HW1_DavisPaulino\bin\Debug\M2HW1_DavisPaulino.exe.config
+F:\CSC 153-C#\TotalSalesHardCoded\M2HW1_DavisPaulino\bin\Debug\M2HW1_DavisPaulino.exe
+F:\CSC 153-C#\TotalSalesHardCoded\M2HW1_DavisPaulino\bin\Debug\M2HW1_DavisPaulino.pdb
+F:\CSC 153-C#\TotalSalesHardCoded\M2HW1_DavisPaulino\obj\Debug\M2HW1_DavisPaulino.csprojAssemblyReference.cache
+F:\CSC 153-C#\TotalSalesHardCoded\M2HW1_DavisPaulino\obj\Debug\M2HW1_DavisPaulino.exe
+F:\CSC 153-C#\TotalSalesHardCoded\M2HW1_DavisPaulino\obj\Debug\M2HW1_DavisPaulino.pdb
