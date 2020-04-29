@@ -1,0 +1,6 @@
+F:\CSC 153-C#\AgeList\M2HW2_DavisPaulino\bin\Debug\M2HW2_DavisPaulino.exe.config
+F:\CSC 153-C#\AgeList\M2HW2_DavisPaulino\bin\Debug\M2HW2_DavisPaulino.exe
+F:\CSC 153-C#\AgeList\M2HW2_DavisPaulino\bin\Debug\M2HW2_DavisPaulino.pdb
+F:\CSC 153-C#\AgeList\M2HW2_DavisPaulino\obj\Debug\M2HW2_DavisPaulino.csprojAssemblyReference.cache
+F:\CSC 153-C#\AgeList\M2HW2_DavisPaulino\obj\Debug\M2HW2_DavisPaulino.exe
+F:\CSC 153-C#\AgeList\M2HW2_DavisPaulino\obj\Debug\M2HW2_DavisPaulino.pdb
