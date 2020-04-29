@@ -1,5 +1,0 @@
-F:\CSC 153-C#\FallingDistance\ClassLibrary\bin\Debug\ClassLibrary.dll
-F:\CSC 153-C#\FallingDistance\ClassLibrary\bin\Debug\ClassLibrary.pdb
-F:\CSC 153-C#\FallingDistance\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
-F:\CSC 153-C#\FallingDistance\ClassLibrary\obj\Debug\ClassLibrary.dll
-F:\CSC 153-C#\FallingDistance\ClassLibrary\obj\Debug\ClassLibrary.pdb
